@@ -1,0 +1,6 @@
+  "jwt": {
+    "kty": "RSA",
+    "e": "AQAB",
+    "kid": "3f046009-a240-4932-863e-a4d6deaa454b",
+    "n": "zvN4qa1BqX-OB0MvC58dxkbn2Cmq7W32WYmY7oO8Kflyt54LXhCBnJRZunMjfOjvuMBGaz8JZxLOJttbQcqOyPth8T27zekkrifdvNBM1RlAkmu6pSlYUc4ESi8-sWo5VDobro0MOHh9rpUuwgTRQB4V4JllOegFF8SILTgPhPuQrdcbwj3MqebjvQD46ahhVGtBAnmbZ6QZRZT4hz-OF9B6dPsiXqvPARZiAXElUmzxgePAIWQ_33uV0lp8frQiO1GxMuVQp3RV-7VZev95NBWFE5935XzGMwcFk4O106JamEM5llWx4ZBFKWMFqe6T1EeatRIgNPxKT09piZ3oew"
+  }
